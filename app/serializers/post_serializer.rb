@@ -4,6 +4,6 @@ class PostSerializer < ActiveModel::Serializer
 end
 
 class UserSerializer < ActiveModel::Serializer
-    attributes :name
+    attributes :name,:token
     
 end

@@ -12,6 +12,13 @@ gem 'jbuilder', '~> 2.7'
 gem 'active_model_serializers', '~> 0.10.7'
 # termina gema active model serializers
 
+#******faraday para hacer http request **********
+gem 'faraday', '~> 0.15.2'
+#*************
+
+#******* OJ  *******
+gem 'oj', '~> 3.6', '>= 3.6.6'
+#****************
 
 #************************
 
